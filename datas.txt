@@ -1,0 +1,4 @@
+Apple 200 4 800
+Banana 100 3 300
+Waiwai 25 3 75
+Fanta 100 2 200
